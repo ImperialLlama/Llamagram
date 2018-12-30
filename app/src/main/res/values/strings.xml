@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Llamagram</string>
+    <string name="button_sign_in">Sign in</string>
+    <string name="button_like">Like</string>
+    <string name="signout_menu">Sign Out</string>
+    <string name="add_photo_menu">Add a photo</string>
+    <string name="success_upload">Upload succeeded!</string>
+    <string name="error_upload">Upload failed :</string>
+    <string name="image_uploading">Uploading image</string>
+</resources>
